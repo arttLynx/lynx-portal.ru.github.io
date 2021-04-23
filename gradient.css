@@ -28,13 +28,14 @@ h1, h2, h3, p {
 a {
     text-decoration: none;
 }
-code {
+.codeBlock {
     background-color: rgba(121, 121, 121, 0.212);
     border: 5px;
     border-radius: 5px;
     text-align: left;
     margin-left: 10%;
 }
+
 @font-face {
     font-family: "MineText";
     font-style: normal;
