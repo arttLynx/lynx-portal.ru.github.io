@@ -10,7 +10,10 @@ h1, h2, h3, p {
     font-family: "MineText";
     text-align: center;
 }
-#main {
+.upBtn {
+    position: sticky;
+}
+.main {
     background-color: rgba(121, 121, 121, 0.212);
     border: 5px;
     border-radius: 5px;
@@ -27,6 +30,9 @@ h1, h2, h3, p {
 }
 a {
     text-decoration: none;
+}
+.mineFont {
+    font-family: "MineText";
 }
 .codeBlock {
     background-color: rgba(121, 121, 121, 0.212);
